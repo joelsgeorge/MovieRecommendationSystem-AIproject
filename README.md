@@ -1,5 +1,5 @@
 # Movie Recommender System Course Project
-Course Project for the Course 18CSC305J- Artificial Intelligence.
+Mini Project for the Course 18CSC305J- Artificial Intelligence.
 # Team Members
 Kevin Thomas Koshy (RA2011003010018) <br>
 Renny Sam (RA2011003010026) <br>
